@@ -11,7 +11,7 @@ const steps = [
   { id: 1, name: 'Upload Data', icon: Upload, description: 'MRI & Cognitive Tests' },
   { id: 2, name: 'Preprocessing', icon: Settings, description: 'Data Preparation' },
   { id: 3, name: 'Feature Extraction', icon: Database, description: 'CNN & ML Analysis' },
-  { id: 4, name: 'Multimodal Fusion', icon: Target, description: 'Model Integration' },
+  { id: 4, name: 'Multimodall Fusion', icon: Target, description: 'Model Integration' },
   { id: 5, name: 'Results', icon: FileText, description: 'Predictions & Insights' },
   { id: 6, name: 'History', icon: BarChart3, description: 'Past Analyses' },
 ];
